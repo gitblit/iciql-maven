@@ -64,7 +64,7 @@
     <!-- Angular search controller -->
     <script>
         function SearchCtrl($scope, $http) {
-            $http.get('/artifacts.json').success(function(data) {
+            $http.get('artifacts.json').success(function(data) {
                 $scope.artifacts = data;
             });
 
