@@ -1,184 +1,183 @@
 [
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.0",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.0/iciql-0.7.0.pom",
-    "package": "com/iciql/iciql/0.7.0/iciql-0.7.0.jar",
-    "sources": "com/iciql/iciql/0.7.0/iciql-0.7.0-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.0/iciql-0.7.0-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.0/iciql-0.7.0.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.0/iciql-0.7.0.jar", "size":"127 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.0/iciql-0.7.0-sources.jar", "size":"96 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.0/iciql-0.7.0-javadoc.jar", "size":"170 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.1",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.1/iciql-0.7.1.pom",
-    "package": "com/iciql/iciql/0.7.1/iciql-0.7.1.jar",
-    "sources": "com/iciql/iciql/0.7.1/iciql-0.7.1-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.1/iciql-0.7.1-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.1/iciql-0.7.1.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.1/iciql-0.7.1.jar", "size":"127 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.1/iciql-0.7.1-sources.jar", "size":"96 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.1/iciql-0.7.1-javadoc.jar", "size":"170 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.2",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.2/iciql-0.7.2.pom",
-    "package": "com/iciql/iciql/0.7.2/iciql-0.7.2.jar",
-    "sources": "com/iciql/iciql/0.7.2/iciql-0.7.2-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.2/iciql-0.7.2-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.2/iciql-0.7.2.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.2/iciql-0.7.2.jar", "size":"167 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.2/iciql-0.7.2-sources.jar", "size":"96 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.2/iciql-0.7.2-javadoc.jar", "size":"170 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.3",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.3/iciql-0.7.3.pom",
-    "package": "com/iciql/iciql/0.7.3/iciql-0.7.3.jar",
-    "sources": "com/iciql/iciql/0.7.3/iciql-0.7.3-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.3/iciql-0.7.3-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.3/iciql-0.7.3.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.3/iciql-0.7.3.jar", "size":"168 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.3/iciql-0.7.3-sources.jar", "size":"96 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.3/iciql-0.7.3-javadoc.jar", "size":"170 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.4",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.4/iciql-0.7.4.pom",
-    "package": "com/iciql/iciql/0.7.4/iciql-0.7.4.jar",
-    "sources": "com/iciql/iciql/0.7.4/iciql-0.7.4-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.4/iciql-0.7.4-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.4/iciql-0.7.4.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.4/iciql-0.7.4.jar", "size":"170 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.4/iciql-0.7.4-sources.jar", "size":"97 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.4/iciql-0.7.4-javadoc.jar", "size":"172 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.5",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.5/iciql-0.7.5.pom",
-    "package": "com/iciql/iciql/0.7.5/iciql-0.7.5.jar",
-    "sources": "com/iciql/iciql/0.7.5/iciql-0.7.5-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.5/iciql-0.7.5-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.5/iciql-0.7.5.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.5/iciql-0.7.5.jar", "size":"170 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.5/iciql-0.7.5-sources.jar", "size":"97 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.5/iciql-0.7.5-javadoc.jar", "size":"171 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.6",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.6/iciql-0.7.6.pom",
-    "package": "com/iciql/iciql/0.7.6/iciql-0.7.6.jar",
-    "sources": "com/iciql/iciql/0.7.6/iciql-0.7.6-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.6/iciql-0.7.6-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.6/iciql-0.7.6.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.6/iciql-0.7.6.jar", "size":"171 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.6/iciql-0.7.6-sources.jar", "size":"98 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.6/iciql-0.7.6-javadoc.jar", "size":"171 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.7",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.7/iciql-0.7.7.pom",
-    "package": "com/iciql/iciql/0.7.7/iciql-0.7.7.jar",
-    "sources": "com/iciql/iciql/0.7.7/iciql-0.7.7-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.7/iciql-0.7.7-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.7/iciql-0.7.7.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.7/iciql-0.7.7.jar", "size":"173 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.7/iciql-0.7.7-sources.jar", "size":"100 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.7/iciql-0.7.7-javadoc.jar", "size":"172 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.8",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.8/iciql-0.7.8.pom",
-    "package": "com/iciql/iciql/0.7.8/iciql-0.7.8.jar",
-    "sources": "com/iciql/iciql/0.7.8/iciql-0.7.8-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.8/iciql-0.7.8-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.8/iciql-0.7.8.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.8/iciql-0.7.8.jar", "size":"174 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.8/iciql-0.7.8-sources.jar", "size":"101 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.8/iciql-0.7.8-javadoc.jar", "size":"173 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.9",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.9/iciql-0.7.9.pom",
-    "package": "com/iciql/iciql/0.7.9/iciql-0.7.9.jar",
-    "sources": "com/iciql/iciql/0.7.9/iciql-0.7.9-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.9/iciql-0.7.9-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.9/iciql-0.7.9.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.9/iciql-0.7.9.jar", "size":"175 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.9/iciql-0.7.9-sources.jar", "size":"101 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.9/iciql-0.7.9-javadoc.jar", "size":"173 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "0.7.10",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/0.7.10/iciql-0.7.10.pom",
-    "package": "com/iciql/iciql/0.7.10/iciql-0.7.10.jar",
-    "sources": "com/iciql/iciql/0.7.10/iciql-0.7.10-sources.jar",
-    "javadoc": "com/iciql/iciql/0.7.10/iciql-0.7.10-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/0.7.10/iciql-0.7.10.pom" },
+    "package": { "path": "com/iciql/iciql/0.7.10/iciql-0.7.10.jar", "size":"175 KB" },
+    "sources": { "path": "com/iciql/iciql/0.7.10/iciql-0.7.10-sources.jar", "size":"101 KB" },
+    "javadoc": { "path": "com/iciql/iciql/0.7.10/iciql-0.7.10-javadoc.jar", "size":"173 KB" }
    }
 },
 {
   "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
   "version": "1.0.0",
-  "groupId": "com.iciql",
-  "artifactId": "iciql",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/1.0.0/iciql-1.0.0.pom",
-    "package": "com/iciql/iciql/1.0.0/iciql-1.0.0.jar",
-    "sources": "com/iciql/iciql/1.0.0/iciql-1.0.0-sources.jar",
-    "javadoc": "com/iciql/iciql/1.0.0/iciql-1.0.0-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/1.0.0/iciql-1.0.0.pom" },
+    "package": { "path": "com/iciql/iciql/1.0.0/iciql-1.0.0.jar", "size":"177 KB" },
+    "sources": { "path": "com/iciql/iciql/1.0.0/iciql-1.0.0-sources.jar", "size":"103 KB" },
+    "javadoc": { "path": "com/iciql/iciql/1.0.0/iciql-1.0.0-javadoc.jar", "size":"175 KB" }
    }
 },
 {
   "name": "Iciql",
-  "version": "1.1.0",
+  "description": "a model-based database access wrapper for JDBC",
   "groupId": "com.iciql",
   "artifactId": "iciql",
+  "version": "1.1.0",
   "date": "2013-03-11",
-  "description": "a model-based database access wrapper for JDBC",
   "files": {
-    "pom": "com/iciql/iciql/1.1.0/iciql-1.1.0.pom",
-    "package": "com/iciql/iciql/1.1.0/iciql-1.1.0.jar",
-    "sources": "com/iciql/iciql/1.1.0/iciql-1.1.0-sources.jar",
-    "javadoc": "com/iciql/iciql/1.1.0/iciql-1.1.0-javadoc.jar"
+    "pom": { "path": "com/iciql/iciql/1.1.0/iciql-1.1.0.pom" },
+    "package": { "path": "com/iciql/iciql/1.1.0/iciql-1.1.0.jar", "size":"178 KB" },
+    "sources": { "path": "com/iciql/iciql/1.1.0/iciql-1.1.0-sources.jar", "size":"161 KB" },
+    "javadoc": { "path": "com/iciql/iciql/1.1.0/iciql-1.1.0-javadoc.jar", "size":"175 KB" }
    }
-}
-]
+}]
