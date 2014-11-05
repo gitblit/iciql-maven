@@ -5,8 +5,8 @@
   <artifactId>iciql</artifactId>
   <!-- project versioning -->
   <versioning>
-    <latest>1.3.0</latest>
-    <release>1.3.0</release>
+    <latest>1.4.0</latest>
+    <release>1.4.0</release>
     <!-- versions-->
     <versions>
       <version>0.7.0</version>
@@ -24,7 +24,8 @@
       <version>1.1.0</version>
       <version>1.2.0</version>
       <version>1.3.0</version>
+      <version>1.4.0</version>
     </versions>
-    <lastUpdated>20141023025813</lastUpdated>
+    <lastUpdated>20141105135319</lastUpdated>
   </versioning>
 </metadata>
