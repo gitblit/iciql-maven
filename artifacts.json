@@ -307,5 +307,19 @@
     "sources": { "path": "com/iciql/iciql/1.6.4/iciql-1.6.4-sources.jar", "size":"136 KB" },
     "javadoc": { "path": "com/iciql/iciql/1.6.4/iciql-1.6.4-javadoc.jar", "size":"372 KB" }
    }
+},
+{
+  "name": "Iciql",
+  "description": "a model-based database access wrapper for JDBC",
+  "groupId": "com.iciql",
+  "artifactId": "iciql",
+  "version": "1.6.5",
+  "date": "2015-07-21",
+  "files": {
+    "pom": { "path": "com/iciql/iciql/1.6.5/iciql-1.6.5.pom" },
+    "package": { "path": "com/iciql/iciql/1.6.5/iciql-1.6.5.jar", "size":"239 KB" },
+    "sources": { "path": "com/iciql/iciql/1.6.5/iciql-1.6.5-sources.jar", "size":"136 KB" },
+    "javadoc": { "path": "com/iciql/iciql/1.6.5/iciql-1.6.5-javadoc.jar", "size":"373 KB" }
+   }
 }
 ]
