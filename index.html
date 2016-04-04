@@ -130,12 +130,14 @@
 repositories: 'central', '{{repository.id}}'</pre>
               </pane>
               <pane heading="Maven">
-                  <pre class="prettyprint lang-xml">&lt;repository&gt;
-  &lt;id&gt;{{repository.id}}&lt;/id&gt;
-  &lt;name&gt;{{repository.name}}&lt;/name&gt;
-  &lt;url&gt;{{repository.url}}&lt;/url&gt;
-  &lt;layout&gt;default&lt;/layout&gt;
-&lt;/repository&gt;</pre>
+                  <pre class="prettyprint lang-xml">&lt;repositories&gt;
+  &lt;repository&gt;
+    &lt;id&gt;{{repository.id}}&lt;/id&gt;
+    &lt;name&gt;{{repository.name}}&lt;/name&gt;
+    &lt;url&gt;{{repository.url}}&lt;/url&gt;
+    &lt;layout&gt;default&lt;/layout&gt;
+  &lt;/repository&gt;
+&lt;/repositories&gt;</pre>
               </pane>
               <pane heading="Gradle">
                   <pre class="prettyprint lang-yaml">repositories {
